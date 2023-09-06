@@ -107,6 +107,7 @@ public class Robot extends TimedRobot {
     drive();
     intakePiece();
     transportPiece();
+    shoot();
     }
 
   @Override
